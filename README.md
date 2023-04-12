@@ -1,6 +1,6 @@
 # push-notifications-demo
 
-> Demo for [Push notification with Firebase](https://sevic.dev/notes/push-notifications-firebase/) post
+> Demo for [Push notifications with Firebase](https://sevic.dev/notes/push-notifications-firebase/) post
 
 ## Contains
 
