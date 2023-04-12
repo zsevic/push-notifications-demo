@@ -8,7 +8,7 @@
 
 - Run front-end, open the page, allow notifications and get registration token from the console log
 
-- Run the following commands
+- Run the following commands to publish a push notification
 
 ```bash
 cp .env.sample .env # change values after copying

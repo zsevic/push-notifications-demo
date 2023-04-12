@@ -15,3 +15,5 @@ cp .env.sample .env.local # change values after copying
 npm i
 npm run dev
 ```
+
+- Open the page, allow notifications and get registration token from the console log
